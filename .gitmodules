@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+    path = api-gateway
+    url = https://github.com/duongtrungnguyenrc/nexa-api-gateway
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/duongtrungnguyenrc/nexa-user-service
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/duongtrungnguyenrc/nexa-auth-service
