@@ -1,24 +1,24 @@
-[submodule "apps/api-gateway"]
-    path = api-gateway
+[submodule "api-gateway"]
+    path = apps/api-gateway
     url = https://github.com/duongtrungnguyenrc/nexa-api-gateway
-[submodule "apps/nestro-server"]
-	path = nestro-server
+[submodule "nestro-server"]
+	path = apps/nestro-server
 	url = https://github.com/duongtrungnguyenrc/nexa-nestro-server
-[submodule "apps/user-service"]
-	path = user-service
+[submodule "user-service"]
+	path = apps/user-service
 	url = https://github.com/duongtrungnguyenrc/nexa-user-service
-[submodule "apps/cache-service"]
-	path = cache-service
+[submodule "cache-service"]
+	path = apps/cache-service
 	url = https://github.com/duongtrungnguyenrc/nexa-cache-service
-[submodule "apps/course-service"]
-	path = course-service
+[submodule "course-service"]
+	path = apps/course-service
 	url = https://github.com/duongtrungnguyenrc/nexa-course-service
-[submodule "apps/assessment-service"]
-	path = assessment-service
+[submodule "assessment-service"]
+	path = apps/assessment-service
 	url = https://github.com/duongtrungnguyenrc/nexa-assessgnment-service
-[submodule "apps/search-service"]
+[submodule "search-service"]
 	path = apps/search-service
 	url = https://github.com/duongtrungnguyenrc/nexa-search-service
-[submodule "apps/notification-service"]
+[submodule "notification-service"]
 	path = apps/notification-service
 	url = https://github.com/duongtrungnguyenrc/nexa-notification-service
