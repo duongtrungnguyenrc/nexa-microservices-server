@@ -1,9 +1,24 @@
-[submodule "api-gateway"]
+[submodule "apps/api-gateway"]
     path = api-gateway
     url = https://github.com/duongtrungnguyenrc/nexa-api-gateway
-[submodule "user-service"]
+[submodule "apps/nestro-server"]
+	path = nestro-server
+	url = https://github.com/duongtrungnguyenrc/nexa-nestro-server
+[submodule "apps/user-service"]
 	path = user-service
 	url = https://github.com/duongtrungnguyenrc/nexa-user-service
-[submodule "auth-service"]
-	path = auth-service
-	url = https://github.com/duongtrungnguyenrc/nexa-auth-service
+[submodule "apps/cache-service"]
+	path = cache-service
+	url = https://github.com/duongtrungnguyenrc/nexa-cache-service
+[submodule "apps/course-service"]
+	path = course-service
+	url = https://github.com/duongtrungnguyenrc/nexa-course-service
+[submodule "apps/assessment-service"]
+	path = assessment-service
+	url = https://github.com/duongtrungnguyenrc/nexa-assessgnment-service
+[submodule "apps/search-service"]
+	path = apps/search-service
+	url = https://github.com/duongtrungnguyenrc/nexa-search-service
+[submodule "apps/notification-service"]
+	path = apps/notification-service
+	url = https://github.com/duongtrungnguyenrc/nexa-notification-service
